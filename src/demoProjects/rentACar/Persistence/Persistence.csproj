@@ -15,7 +15,7 @@
 	<ItemGroup>
 		<ProjectReference Include="..\Application\Application.csproj" />
 		<ProjectReference Include="..\Domain\Domain.csproj" />
-		<ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
+		<!-- <ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" /> -->
 	</ItemGroup>
 
 </Project>
